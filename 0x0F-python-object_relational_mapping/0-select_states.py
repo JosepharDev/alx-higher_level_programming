@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+"""Lists states"""
 import MySQLdb
 import sys
 
